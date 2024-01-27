@@ -1,0 +1,29 @@
+[
+  {
+    "questionText": "What is our favourite weather?",
+    "answerOptions": [
+      { "answerText": "Sunny day", "isCorrect": false },
+      { "answerText": "Rain", "isCorrect": true },
+      { "answerText": "Cloudy", "isCorrect": false },
+      { "answerText": "Snowing", "isCorrect": false }
+    ]
+  },
+  {
+    "questionText": "What is the first day that we started talking?",
+    "answerOptions": [
+      { "answerText": "Today", "isCorrect": false },
+      { "answerText": "Yesterday", "isCorrect": false },
+      { "answerText": "You get", "isCorrect": true },
+      { "answerText": "The idea", "isCorrect": true }
+    ]
+  },
+  {
+    "questionText": "Why are you my princess?",
+    "answerOptions": [
+      { "answerText": "Because you are", "isCorrect": false },
+      { "answerText": "You are cute", "isCorrect": false },
+      { "answerText": "You are funny", "isCorrect": false },
+      { "answerText": "All of the above", "isCorrect": true }
+    ]
+  }
+]
